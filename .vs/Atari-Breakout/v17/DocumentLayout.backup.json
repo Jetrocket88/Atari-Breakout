@@ -5,6 +5,26 @@
     {
       "AbsoluteMoniker": "D:0:0:{A15A6E66-2FBB-4716-89DE-659CBA1DB567}|Atari-Breakout\\Atari-Breakout.vcxproj|C:\\Users\\harry\\source\\repos\\Atari-Breakout\\Atari-Breakout\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A15A6E66-2FBB-4716-89DE-659CBA1DB567}|Atari-Breakout\\Atari-Breakout.vcxproj|solutionrelative:Atari-Breakout\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A15A6E66-2FBB-4716-89DE-659CBA1DB567}|Atari-Breakout\\Atari-Breakout.vcxproj|C:\\Users\\harry\\source\\repos\\Atari-Breakout\\Atari-Breakout\\src\\shaders\\fragment.vs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A15A6E66-2FBB-4716-89DE-659CBA1DB567}|Atari-Breakout\\Atari-Breakout.vcxproj|solutionrelative:Atari-Breakout\\src\\shaders\\fragment.vs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A15A6E66-2FBB-4716-89DE-659CBA1DB567}|Atari-Breakout\\Atari-Breakout.vcxproj|C:\\Users\\harry\\source\\repos\\Atari-Breakout\\Atari-Breakout\\src\\shaders\\vertex.vs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A15A6E66-2FBB-4716-89DE-659CBA1DB567}|Atari-Breakout\\Atari-Breakout.vcxproj|solutionrelative:Atari-Breakout\\src\\shaders\\vertex.vs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A15A6E66-2FBB-4716-89DE-659CBA1DB567}|Atari-Breakout\\Atari-Breakout.vcxproj|C:\\Users\\harry\\source\\repos\\Atari-Breakout\\Atari-Breakout\\src\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A15A6E66-2FBB-4716-89DE-659CBA1DB567}|Atari-Breakout\\Atari-Breakout.vcxproj|solutionrelative:Atari-Breakout\\src\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A15A6E66-2FBB-4716-89DE-659CBA1DB567}|Atari-Breakout\\Atari-Breakout.vcxproj|C:\\Users\\harry\\source\\repos\\Atari-Breakout\\Atari-Breakout\\src\\ResourceManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A15A6E66-2FBB-4716-89DE-659CBA1DB567}|Atari-Breakout\\Atari-Breakout.vcxproj|solutionrelative:Atari-Breakout\\src\\ResourceManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A15A6E66-2FBB-4716-89DE-659CBA1DB567}|Atari-Breakout\\Atari-Breakout.vcxproj|C:\\Users\\harry\\source\\repos\\Atari-Breakout\\Atari-Breakout\\headers\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A15A6E66-2FBB-4716-89DE-659CBA1DB567}|Atari-Breakout\\Atari-Breakout.vcxproj|solutionrelative:Atari-Breakout\\headers\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,13 +66,77 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "fragment.vs",
+              "DocumentMoniker": "C:\\Users\\harry\\source\\repos\\Atari-Breakout\\Atari-Breakout\\src\\shaders\\fragment.vs",
+              "RelativeDocumentMoniker": "Atari-Breakout\\src\\shaders\\fragment.vs",
+              "ToolTip": "C:\\Users\\harry\\source\\repos\\Atari-Breakout\\Atari-Breakout\\src\\shaders\\fragment.vs",
+              "RelativeToolTip": "Atari-Breakout\\src\\shaders\\fragment.vs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-31T13:37:32.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "vertex.vs",
+              "DocumentMoniker": "C:\\Users\\harry\\source\\repos\\Atari-Breakout\\Atari-Breakout\\src\\shaders\\vertex.vs",
+              "RelativeDocumentMoniker": "Atari-Breakout\\src\\shaders\\vertex.vs",
+              "ToolTip": "C:\\Users\\harry\\source\\repos\\Atari-Breakout\\Atari-Breakout\\src\\shaders\\vertex.vs",
+              "RelativeToolTip": "Atari-Breakout\\src\\shaders\\vertex.vs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-31T13:37:22.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ResourceManager.cpp",
+              "DocumentMoniker": "C:\\Users\\harry\\source\\repos\\Atari-Breakout\\Atari-Breakout\\src\\ResourceManager.cpp",
+              "RelativeDocumentMoniker": "Atari-Breakout\\src\\ResourceManager.cpp",
+              "ToolTip": "C:\\Users\\harry\\source\\repos\\Atari-Breakout\\Atari-Breakout\\src\\ResourceManager.cpp",
+              "RelativeToolTip": "Atari-Breakout\\src\\ResourceManager.cpp",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAUwE4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-31T13:36:08.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Game.cpp",
+              "DocumentMoniker": "C:\\Users\\harry\\source\\repos\\Atari-Breakout\\Atari-Breakout\\src\\Game.cpp",
+              "RelativeDocumentMoniker": "Atari-Breakout\\src\\Game.cpp",
+              "ToolTip": "C:\\Users\\harry\\source\\repos\\Atari-Breakout\\Atari-Breakout\\src\\Game.cpp",
+              "RelativeToolTip": "Atari-Breakout\\src\\Game.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-31T10:16:43.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Game.h",
+              "DocumentMoniker": "C:\\Users\\harry\\source\\repos\\Atari-Breakout\\Atari-Breakout\\headers\\Game.h",
+              "RelativeDocumentMoniker": "Atari-Breakout\\headers\\Game.h",
+              "ToolTip": "C:\\Users\\harry\\source\\repos\\Atari-Breakout\\Atari-Breakout\\headers\\Game.h",
+              "RelativeToolTip": "Atari-Breakout\\headers\\Game.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-31T09:59:59.637Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\harry\\source\\repos\\Atari-Breakout\\Atari-Breakout\\src\\main.cpp",
               "RelativeDocumentMoniker": "Atari-Breakout\\src\\main.cpp",
               "ToolTip": "C:\\Users\\harry\\source\\repos\\Atari-Breakout\\Atari-Breakout\\src\\main.cpp",
               "RelativeToolTip": "Atari-Breakout\\src\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAAAHAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-31T09:29:36.509Z",
               "EditorCaption": ""
